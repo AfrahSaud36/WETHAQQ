@@ -1,4 +1,9 @@
-# WETHAQ 
+<h1 align="center">WETHAQ</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e867b01-6522-45fa-963c-be0939831dbd" width="340" height="388" alt="App icon-2"/>
+</p>
+
 
 ## Overview
 
