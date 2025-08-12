@@ -11,7 +11,8 @@ import SwiftUI
 struct MacroApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
+                .preferredColorScheme(.light)
         }
     }
 }
